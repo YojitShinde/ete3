@@ -1,0 +1,13 @@
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+datetime
+random
+pandas
+numpy
+streamlit
+pil
+io
+base64
+faker
